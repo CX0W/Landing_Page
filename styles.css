@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+}
+.first,.second,.third,.fourth{
+    height:25vh;
+}
+.first{
+    background-color: #1F2937;
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+    padding-top:10px;
+}
+.second{
+    background-color: #F9FAF8;
+}
+.third{
+    background-color: #E5E7EB;   
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color:#E5E7EB;
+    font-weight: lighter;
+}
+.links{
+    display: flex;
+    gap: 25px;
+}
